@@ -83429,7 +83429,7 @@ function _interopRequireDefault(obj) { return obj && obj.__esModule ? obj : { de
 //   return mods.map(e => <Mod key={e} mod={e} />);
 // }
 function App() {
-  return _react.default.createElement(_reactRouterDom.BrowserRouter, null, _react.default.createElement(_reactRouterDom.Route, {
+  return _react.default.createElement(_reactRouterDom.HashRouter, null, _react.default.createElement(_reactRouterDom.Route, {
     exact: true,
     path: "/mods",
     component: function component() {
