@@ -1,0 +1,29 @@
+{
+  "name": "mindustrymods",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "@material-ui/core": "^4.5.2",
+    "firebase": "^7.2.3",
+    "markdown-to-jsx": "^6.10.3",
+    "parcel": "^1.12.4",
+    "react": "^16.11.0",
+    "react-dom": "^16.11.0",
+    "react-router-dom": "^5.1.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maximmasterr/mindustryMods.git"
+  },
+  "author": "maximmasterr",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/maximmasterr/mindustryMods/issues"
+  },
+  "homepage": "http://maximmasterr.github.io/mindustryMods"
+}
